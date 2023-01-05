@@ -68,3 +68,48 @@ nav li{
     font-size: 18px;
     margin-bottom: 30px;
 }
+/* main section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* about section styles */
+.about{
+   margin-top: 130px;
+   background-color: #FFF8F3;
+   border-radius: 10px;
+   padding:130px 150px;
+   text-align: center;
+}
+.section-title{
+
+   font-weight: 700;
+   font-size: 35px;
+   margin-bottom: 30px;
+
+}
+.section-descriptio{
+   color: #757575;
+   font-size: 18px;
+   margin-bottom: 30px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top:30px;
+}
+.about .info-title{
+    font-size: 20px;
+    color: #757575;
+  
+}
+.info-description{
+    font-size:20px;
+    font-weight: 700;
+    color: #474747;
+ 
+}
+/* what ido styles */
+.what-i-do{
+    margin-top: 130px;
+}
